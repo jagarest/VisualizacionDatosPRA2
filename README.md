@@ -2,7 +2,7 @@
 Esta Práctica 2 consiste en desarrollar una visualización de datos que demuestre un cierto conocimiento del campo de la visualización de datos, así como la elección apropiada de herramientas y técnicas. Se utilizará el conjunto o conjuntos de datos seleccionados y validados en la primera parte de la práctica, incluyendo en la medida de lo posible las mejoras sugeridas por el profesor.
 
 ## Título
-Prdedicción del desempeño escolar en un instituto de secundaria.
+Predicción del desempeño escolar en un instituto de secundaria.
 
 ## Descripción
 consiste en una visualización que representa la correlación entre las calificaciones finales de los alumnos y otros factores.
